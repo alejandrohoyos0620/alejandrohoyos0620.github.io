@@ -1,0 +1,99 @@
+/* HEADER */
+#nav-bar-header{
+    display: flex;
+}
+.logo-header{
+    width: 25%;
+}
+.logo-header > img{
+   width: 100%;
+   height: auto;
+}
+.div-content-header{
+    width: 75%;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    background-color: #ccd1e4;
+    border-radius: 8px;
+    margin-left: 2%;
+}
+.div-content-header > h6 {
+    color: var(--color-primary);
+    font-size: 12px;
+    width: 75%;
+    margin: 0px;
+    padding-left: 5px;
+}
+.div-content-header > div{
+    width: 25%;
+    justify-content: space-around;
+}
+.div-content-header > div > a{
+    width: 40%;
+    margin-inline: 2%;
+}
+.hr-menu{
+    width: 60%;
+}
+.div-content-header > a > svg{
+    width: 100%;
+    height: auto;
+}
+.header-icon-bars{
+    color: var(--color-primary);
+
+}
+.footer{
+    bottom: 0px;
+    position: sticky;
+    background-color: #ccd1e4;
+    color: var(--color-primary);
+    height: 5%;
+}
+.footer > .row > .text-footer{
+    width: 45%;
+}
+.footer > .row > .text-footer-stick{
+    width: 2%;
+}
+.div-buttons a button{
+    margin-block: 10%;
+}
+
+
+/* HEADER */
+.offcanvas-header{
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.nav-item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding-block: 10px;
+}
+.nav-item > a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    padding-inline: 10%;
+}
+.nav-item > svg {
+    font-size: 20px;
+    width: 10%;
+}
+.text-color-primary{
+    color: var(--color-primary);
+    font-weight: 500;
+    font-size: 16px;
+
+}
+.text-color-red {
+    color: red;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+}
