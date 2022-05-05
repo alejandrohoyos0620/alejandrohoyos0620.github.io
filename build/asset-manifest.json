@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28b22aa4.css",
+    "main.js": "/static/js/main.14ba3b2c.js",
+    "static/js/787.55f1f880.chunk.js": "/static/js/787.55f1f880.chunk.js",
+    "static/media/icon-user.png": "/static/media/icon-user.452b77fd0768c55ff258.png",
+    "static/media/logoquixkcard.png": "/static/media/logoquixkcard.8664b39d5ac2e526db5a.png",
+    "index.html": "/index.html",
+    "main.28b22aa4.css.map": "/static/css/main.28b22aa4.css.map",
+    "main.14ba3b2c.js.map": "/static/js/main.14ba3b2c.js.map",
+    "787.55f1f880.chunk.js.map": "/static/js/787.55f1f880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b22aa4.css",
+    "static/js/main.14ba3b2c.js"
+  ]
+}
